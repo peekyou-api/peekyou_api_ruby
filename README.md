@@ -1,9 +1,9 @@
-# Peekyou-api
+# Peekyou Social and Consumer Audience -API
 
-A peekyou-api class written in RUBY , specifically for use
-with the peekyou-API.
+A peekyou-api class written in RUBY by ANKIT PATEL , specifically for use
+with the peekyou's Social Audience API and Consumer Audience API.
 
-**Disclaimer**: This project is a work in progress and may contain bugs.
+**Disclaimer**: This project is a work in progress .
 
 ## Goals
 
@@ -14,7 +14,7 @@ with the peekyou-API.
 
 ## Using
 
-The main.rb file in repo provides an example of how to use our api package
+The main.rb and api.rb file in repo provides an example of how to use our api package
 
 ## Community
 
